@@ -12,7 +12,6 @@ export const projects = [
       { id: 2, name: "Puppeteer" },
       { id: 3, name: "Node.js" },
       { id: 4, name: "Express.js" },
-      { id: 5, name: "Tailwind CSS" },
     ],
   },
   {
