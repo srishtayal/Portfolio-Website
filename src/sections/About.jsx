@@ -9,10 +9,10 @@ const About = () => {
   Code. Solve. Repeat.`;
   const aboutText = `Obsessed with solving problems through code—from crafting apps to tackling algorithmic challenges that sharpen my thinking. Every project is an experiment in learning, building, and pushing myself closer to becoming a better engineer.
 When I’m not coding:
-📚 Reading and exploring ideas that spark creativity
-🎨 Designing interfaces and tinkering with new tools
-🔌 Diving into electronics
- ☕ Enjoying a good cup of coffee`;
+✱ Reading and exploring ideas that spark creativity
+✱ Designing interfaces and tinkering with new tools
+✱ Diving into electronics
+✱ Enjoying a good cup of coffee`;
   const imgRef = useRef(null);
   useGSAP(() => {
     gsap.to("#about", {
