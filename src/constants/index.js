@@ -29,6 +29,19 @@ export const projects = [
       { id: 4, name: "HuggingFace API" },
     ],
   },
+  {
+    id: 3,
+    name: "Dungeon Adventure - Text Based RPG Game",
+    description:
+      "This is a simple text-based dungeon crawler built using Object-Oriented Programming (OOP) in Java.",
+    href: "",
+    image: "/assets/projects/Dungeon.png",
+    bgImage: "/assets/backgrounds/map.jpg",
+    frameworks: [
+      { id: 1, name: "Java" },
+      { id: 2, name: "OOPs" }
+    ],
+  },
   
 ];
 export const socials = [
