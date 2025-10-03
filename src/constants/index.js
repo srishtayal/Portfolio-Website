@@ -34,12 +34,27 @@ export const projects = [
     name: "Dungeon Adventure - Text Based RPG Game",
     description:
       "This is a simple text-based dungeon crawler built using Object-Oriented Programming (OOP) in Java.",
-    href: "",
+    href: "github.com/srishtayal/Dungeon-Adventure",
     image: "/assets/projects/Dungeon.png",
     bgImage: "/assets/backgrounds/map.jpg",
     frameworks: [
       { id: 1, name: "Java" },
       { id: 2, name: "OOPs" }
+    ],
+  },
+  {
+    id: 4,
+    name: "KMRL DocuSense",
+    description:
+      "AI-powered platform that transforms scattered metro documents into concise, role-based insights for faster decision-making.",
+    href: "",
+    image: "/assets/projects/docusense.png",
+    bgImage: "/assets/backgrounds/poster.jpg",
+    frameworks: [
+      { id: 1, name: "React" },
+      { id: 2, name: "FastAPI" },
+      { id: 3, name: "PostgreSQL" },
+      { id: 4, name: "AI/ML" }
     ],
   },
   
