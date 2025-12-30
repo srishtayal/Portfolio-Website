@@ -4,7 +4,7 @@ export const projects = [
     name: "QCompare - Quick Commerce Product Comparison Tool",
     description:
       "A Web-based tool for comparing products across various quick-commerce platforms like - BlinkIt, SwiggyInstamart & Zepto.",
-    href: "",
+    href: "google.com",
     image: "/assets/projects/QCompare.png",
     bgImage: "/assets/backgrounds/blanket.jpg",
     frameworks: [
@@ -16,6 +16,20 @@ export const projects = [
   },
   {
     id: 2,
+    name: "Fluxo",
+    description:
+      "A lightweight macOS utility that reclaims the notch area to reduce context switching through expandable, system-level quick actions.",
+    href: "",
+    image: "/assets/projects/fluxo.png",
+    bgImage: "/assets/backgrounds/poster.jpg",
+    frameworks: [
+      { id: 1, name: "Swift" },
+      { id: 2, name: "AppKit" },
+      { id: 3, name: "SwiftUI" },
+    ],
+  },
+  {
+    id: 3,
     name: "MoodMate - AI Powered Journal",
     description:
       "An online store specializing in rare and decorative plants with a clean, user-friendly interface.",
@@ -30,7 +44,7 @@ export const projects = [
     ],
   },
   {
-    id: 3,
+    id: 4,
     name: "Dungeon Adventure - Text Based RPG Game",
     description:
       "This is a simple text-based dungeon crawler built using Object-Oriented Programming (OOP) in Java.",
@@ -43,7 +57,7 @@ export const projects = [
     ],
   },
   {
-    id: 4,
+    id: 5,
     name: "KMRL DocuSense",
     description:
       "AI-powered platform that transforms scattered metro documents into concise, role-based insights for faster decision-making.",
