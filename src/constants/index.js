@@ -71,6 +71,20 @@ export const projects = [
       { id: 4, name: "AI/ML" }
     ],
   },
+  {
+    id: 6,
+    name: "Mood Heatmap - Wallpaper",
+    description:
+      "Log one mood a day. Turn your wallpaper into a living visualization of your year.",
+    href: "",
+    image: "/assets/projects/moodmap.png",
+    bgImage: "/assets/backgrounds/curtains.jpg",
+    frameworks: [
+      { id: 1, name: "React" },
+      { id: 2, name: "Next.js" },
+      { id: 3, name: "PostgreSQL" },
+    ],
+  },
   
 ];
 export const socials = [
